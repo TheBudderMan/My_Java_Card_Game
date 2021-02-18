@@ -1,4 +1,4 @@
-# My_Java_Card_Game
+# My_Java_Casino
 
 This was a project written for my BCIS Java 2 programming class.
 
